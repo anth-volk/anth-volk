@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anthony Volk 👋</h1>
-<h5 align="center"><a href="https://www.linkedin.com/in/anthonyvolk">LinkedIn</a></h5>
+<h5 align="center"><a href="https://www.linkedin.com/in/anthonyvolk" target="blank">LinkedIn</a> · <a href="https://www.anthonyvolk.com" target="blank">Portfolio</a></h5>
 <h2>About Me</h2>
 
 I'm a junior full-stack developer and ethical technologist with a passion for building tech solutions to real-world problems. I have a passion for contributing to software at all points across the software development lifecycle, from ideation to implementation. I'm informed by my past experience working directly with governments and civil society leaders to support governmental reform in areas as diverse as infrastructure, rule of law, and electoral systems.
