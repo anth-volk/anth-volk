@@ -17,7 +17,7 @@ I'm a junior full-stack developer and ethical technologist with a passion for bu
 *Apr. 2023 - present*  
 - Cross-stack, cross-SDLC contributor to a full-stack web application built using Python Flask, React, PostgreSQL, Google Cloud, and Kubernetes
 - Planning the development of a front-end testing suite in React using Jest unit and integration tests and Cypress E2E testing
-- Rewrote, edited, or refactored 8 React components and various Python Flask endopints to solve critical cross-stack data error, preventing the obsolescence of ~80% of user profiles
+- Rewrote, edited, or refactored 8 React components and various Python Flask endpoints to solve critical cross-stack data error, preventing the obsolescence of ~80% of user profiles
 - Currently playing leadership role within team of 5 in implementation of a complete front-end redesign in React that aims to increase code modularity and improve user intelligibility
 
 **Research Lead, Regional Connectivity and Infrastructure, Institute for State Effectiveness ([link](https://www.effectivestates.org))**  
