@@ -29,6 +29,7 @@ I'm a junior full-stack developer and ethical technologist with a passion for bu
 <h2>Other Programming Experience</h2>
 
 **STEREO 8s** ([Netlify live link](https://tinyurl.com/bdfdpmsf), [GitHub](https://tinyurl.com/bdvm5f6a))  
+_Please note that this app's back end service scales down when inactive, and may be slow when first visited_  
 - Full-stack CRUD web application with RESTful API using Node/Express, SQL, and React
 - Application consumes the Spotify API and connects with the Spotify SDK to allow users to create virtual 8-track "cartridges"
 - Employs custom authentication flow built around short-term JWTs and token refreshing to diminish XSS attack risks
