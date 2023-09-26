@@ -57,7 +57,7 @@ _Currently under development_
 
 <h3>Technical</h3>
 
-HTML · CSS · SQL · Sequelize ORM · JavaScript (inc. ES6+) · NodeJS · ExpressJS · ReactJS · Python · Flask · C · Bash · Babel · Webpack · Sass/Less · Bootstrap · Git/GitHub · Figma · Trello · Google Cloud
+HTML · CSS · SQL · Sequelize ORM · JavaScript (inc. ES6+) · NodeJS · ExpressJS · ReactJS · Jest · Python · Pytest · Flask · C · Bash · Babel · Webpack · Sass/Less · Bootstrap · Git/GitHub · Figma · Trello · Google Cloud
 
 <h3>Complementary</h3>
 
