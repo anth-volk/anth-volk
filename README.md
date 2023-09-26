@@ -1,49 +1,68 @@
-# Hi, I'm Anthony Volk! 👋
-I'm a junior full-stack developer and ethical technologist with a passion for building tech solutions to real-world problems. Welcome to my GitHub profile!
+<h1 align="center">Hi, I'm Anthony Volk 👋</h1>
+<h5 align="center"><a href="https://www.linkedin.com/in/anthonyvolk">LinkedIn</a></h5>
+<h2>About Me</h2>
 
-## Professional Experience
-### Apr. 2023 - present: Full-Stack Developer, PolicyEngine ([link](https://www.policyengine.org))
+I'm a junior full-stack developer and ethical technologist with a passion for building tech solutions to real-world problems. I have a passion for contributing to software at all points across the software development lifecycle, from ideation to implementation. I'm informed by my past experience working directly with governments and civil society leaders to support governmental reform in areas as diverse as infrastructure, rule of law, and electoral systems.
+
+<h2>Education</h2>
+
+**Harvard University**  
+*Bachelor of Arts with English and Latin Honors, 2014-18*
+- Double major: Government and East Asian Studies; GPA: 3.62
+- Coursework in introductory computer science and statistics; study abroad
+
+<h2>Professional Experience</h2>
+
+**Full-Stack Developer, PolicyEngine ([link](https://www.policyengine.org))**  
+*Apr. 2023 - present*  
 - Cross-stack, cross-SDLC contributor to a full-stack web application built using Python Flask, React, PostgreSQL, Google Cloud, and Kubernetes
 - Developing an E2E testing infrastructure in Python using Docker containers and comprehensive Python Flask runtime tests
+- Rewrote, edited, or refactored 8 React components and various Python Flask endopints to solve critical cross-stack data error, preventing the obsolescence of ~80% of user profiles
 - Currently playing leadership role within team of 5 in implementation of a complete front-end redesign in React that aims to increase code modularity and improve user intelligibility
-- Solved critical cross-stack data error, preventing the obsolescence of ~80% of user profiles
 
-### Jun. 2018 - Oct. 2022: Research Lead, Regional Connectivity and Infrastructure, Institute for State Effectiveness ([link](https://www.effectivestates.org))
+**Research Lead, Regional Connectivity and Infrastructure, Institute for State Effectiveness ([link](https://www.effectivestates.org))**  
+*July 2018 - Oct. 2022*  
 - Co-led, researched, and wrote three reports analyzing country service delivery constraints over 1-year+ time horizons that spawned policymaker-facing work in at least one country
-- Worked with a globally distributed team toward competing deadlines across multiple simultaneous projects
 - Produced multiple analytical written reports, scenarios papers, and policy recommendations to policymakers on the future of Asia-Pacific infrastructure development, including digital connectivity
+- Worked with a globally distributed team toward competing deadlines across multiple simultaneous projects
 
-## Other Programming Experience
-### STEREO 8s ([Netlify live link](https://tinyurl.com/bdfdpmsf)), [GitHub](https://tinyurl.com/bdvm5f6a))
-- Full-stack CRUD web applciation with RESTful API using Node/Express, SQL, and React
+<h2>Other Programming Experience</h2>
+
+**STEREO 8s** ([Netlify live link](https://tinyurl.com/bdfdpmsf), [GitHub](https://tinyurl.com/bdvm5f6a))  
+- Full-stack CRUD web application with RESTful API using Node/Express, SQL, and React
 - Application consumes the Spotify API and connects with the Spotify SDK to allow users to create virtual 8-track "cartridges"
-- Custom authentication flow built around short-term JWTs and token refreshing
+- Employs custom authentication flow built around short-term JWTs and token refreshing to diminish XSS attack risks
+- Provides two separate sets of authentication routes and endpoints, one of which integrates Spotify's authentication system
+- Utilizes advanced React concepts, including advanced hooks (e.g., useCallback), React Router, and the Context API
 
-### TravelSpark ([GitHub](https://tinyurl.com/2bfty5kj))
+**TravelSpark** ([GitHub](https://tinyurl.com/2bfty5kj))  
 _Currently under development_
 - Full-stack web application written in Node/Express, SQL, and React that utilizes ChatGPT via the Chat API to enable the creation of sentiment-driven travel itineraries
 - Utilizes JavaScript ES6+ class structures to demonstrate object-oriented best practices
 
-### 
+**Gomi Frontend Framework** ([GitHub](https://github.com/anth-volk/gomi-frontend-framework))  
+_Currently under development_  
+- Vanilla JavaScript front-end framework modelled upon React, but intended to allow for rapid scaling of Android apps using Google's standard Material UI design language
+- Provides custom JSX transpilation that allows for custom framework-defined elements; at the moment, this includes custom CSS grid and flexbox implementations
 
+**25+5 Clock** ([CodeSandbox](https://f2ywg4.csb.app/))
+- Simple React implementation of a 25+5 or "pomodoro" timeboxing clock, aimed at improving work efficiency
+- Employs more advanced features of React, such as custom hooks
 
+**macOS Calculator Clone** ([CodeSandbox](https://8miwnq.csb.app/))
+- Pixel-perfect React clone of the macOS system calculator application
+- Includes logic to mimic particular quirks of macOS calculator application, such as input number shortening
 
-- 
+<h2>Skills</h2>
 
+<h3>Technical</h3>
 
+HTML · CSS · SQL · Sequelize ORM · JavaScript (inc. ES6+) · NodeJS · ExpressJS · ReactJS · Python · Flask · C · Bash · Babel · Webpack · Sass/Less · Bootstrap · Git/GitHub · Figma · Trello · Google Cloud
 
+<h3>Complementary</h3>
 
-<!--
-**anth-volk/anth-volk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategic planning · wireframing · research and analysis · project management
 
-Here are some ideas to get you started:
+<h3>Language</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+English (native) · Japanese (advanced) · Spanish (intermediate) · Hungarian (basic)
