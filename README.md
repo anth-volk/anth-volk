@@ -36,7 +36,7 @@ _Please note that this app's back end service scales down when inactive, and may
 - Provides two separate sets of authentication routes and endpoints, one of which integrates Spotify's authentication system
 - Utilizes advanced React concepts, including advanced hooks (e.g., useCallback), React Router, and the Context API
 
-**Egaki** ([GitHub](https://github.com/anth-volk/egaki))
+**Egaki** ([GitHub](https://github.com/anth-volk/egaki))  
 _Currently under development_
 - Custom programming language, written in Python, that interprets to Python at runtime
 
