@@ -26,7 +26,7 @@ I'm a junior full-stack developer and ethical technologist with a passion for bu
 - Produced multiple analytical written reports, scenarios papers, and policy recommendations to policymakers on the future of Asia-Pacific infrastructure development, including digital connectivity
 - Worked with a globally distributed team toward competing deadlines across multiple simultaneous projects
 
-<h2>Other Programming Experience</h2>
+<h2>Personal Projects</h2>
 
 **STEREO 8s** ([Netlify live link](https://tinyurl.com/bdfdpmsf), [GitHub](https://tinyurl.com/bdvm5f6a))  
 _Please note that this app's back end service scales down when inactive, and may be slow when first visited_  
@@ -36,8 +36,12 @@ _Please note that this app's back end service scales down when inactive, and may
 - Provides two separate sets of authentication routes and endpoints, one of which integrates Spotify's authentication system
 - Utilizes advanced React concepts, including advanced hooks (e.g., useCallback), React Router, and the Context API
 
-**TravelSpark** ([GitHub](https://tinyurl.com/2bfty5kj))  
+**Egaki** ([GitHub](https://github.com/anth-volk/egaki))
 _Currently under development_
+- Custom programming language, written in Python, that interprets to Python at runtime
+
+**TravelSpark** ([GitHub](https://tinyurl.com/2bfty5kj))  
+_Development paused_
 - Full-stack web application written in Node/Express, SQL, and React that utilizes ChatGPT via the Chat API to enable the creation of sentiment-driven travel itineraries
 - Utilizes JavaScript ES6+ class structures to demonstrate object-oriented best practices
 
