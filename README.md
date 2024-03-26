@@ -70,4 +70,4 @@ Strategic planning · wireframing · research and analysis · project management
 
 <h3>Language</h3>
 
-English (native) · Japanese (advanced) · Spanish (intermediate) · Hungarian (basic)
+English (native) · Japanese (advanced) · Spanish (intermediate) · Hungarian (intermediate)
